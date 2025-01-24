@@ -1,5 +1,7 @@
 **React Native To-Do App**
+
 **Project Overview**
+
 This project is a mobile application built using React Native to implement a simple and user-friendly to-do list application. The app enables users to manage their tasks effectively with features such as adding, viewing, editing, and deleting items. It consists of two primary screens:
 
 List Screen: Displays a list of items with their details such as name and description.
