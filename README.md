@@ -1,14 +1,14 @@
-React Native To-Do App
-
-Project Overview
-
+**React Native To-Do App
+**
+**Project Overview
+**
 This project is a mobile application built using React Native to implement a simple and user-friendly to-do list application. The app enables users to manage their tasks effectively with features such as adding, viewing, editing, and deleting items. It consists of two primary screens:
 
 List Screen: Displays a list of items with their details such as name and description.
 
 Add Item Screen: Provides a user interface to add new items to the list.
 
-Features
+**Features**
 
 List Screen
 
@@ -38,23 +38,23 @@ Basic styling for a visually appealing and easy-to-use interface.
 
 A consistent and responsive design across both screens, ensuring usability on various device sizes.
 
-Bonus Features (Optional)
+**Bonus Features (Optional)**
 
-Edit functionality to modify the details of an existing item.
+Add functionality to edit and delete items from the list.
 
-Delete functionality to remove items from the list directly.
+Implement error handling for input validation and user feedback.
 
-Requirements
+**Requirements**
 
 Environment
 
-IDE: Android Studio (or any other preferred IDE).
+**IDE:** Android Studio (or any other preferred IDE).
 
-API Level: Tested on API Level 31; supports up to API Level 33.
+**API Level:** Tested on API Level 31; supports up to API Level 33.
 
-Operating System: Development tested on Windows. Installation on macOS may have variations.
+**Operating System:** Development tested on Windows. Installation on macOS may have variations.
 
-Tools
+**Tools**
 
 React Native CLI: For setting up and managing the project.
 
@@ -100,25 +100,25 @@ Use the R key in the terminal to reload the app and reflect changes.
 
 Usage Instructions
 
-Adding Items:
+**Adding Items:**
 
 Navigate to the Add Item Screen using the provided navigation button.
 
 Enter the item name and description in the respective input fields.
 
 Submit the form to add the item to the list.
-
-Viewing Items:
+**
+Viewing Items:**
 
 View all added items on the List Screen, displayed with their names and descriptions.
 
-Editing Items:
+**Editing Items:**
 
 Select an item to edit and update its details.
 
 Save changes, and the updated details will reflect in the list.
 
-Deleting Items:
+**Deleting Items:**
 
 Directly delete items from the list using the delete option.
 
@@ -138,19 +138,11 @@ Press R in the terminal to reload the app and apply any code changes during deve
 
 Additional Tools
 
-Expo
+**Expo**
 
 Expo was used for:
 
 Simplified connection with the emulator.
 
 Streamlined development and debugging processes.
-
-Potential Enhancements
-
-Cloud Storage: Implement synchronization with cloud-based storage solutions for cross-device compatibility.
-
-User Authentication: Add user authentication to enable personalized task lists.
-
-Advanced UI: Enhance the UI/UX with animations, themes, and improved design elements.
 
